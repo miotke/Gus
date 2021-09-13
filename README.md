@@ -1,6 +1,6 @@
 # Gus
 
-Repo documenting my Raspberry Pi server.
+Repo documenting my Raspberry Pi server. Includes projects and configuration code that runs on it. 
 
 Named after my dog Gus.
 
@@ -10,4 +10,3 @@ Named after my dog Gus.
 - 3D Printed case. See _RPi4_case.gcode_.
     - 20% infill
     - Original source can be found [here](https://www.thingiverse.com/thing:3723561)
-

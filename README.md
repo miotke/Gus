@@ -10,3 +10,8 @@ Named after my dog Gus.
 - 3D Printed case. See _RPi4_case.gcode_.
     - 20% infill
     - Original source can be found [here](https://www.thingiverse.com/thing:3723561)
+
+## Software 
+
+- [Pi-hole Docker](https://github.com/pi-hole/docker-pi-hole)
+- [Home Assistant](https://www.home-assistant.io)

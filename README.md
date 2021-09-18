@@ -4,7 +4,9 @@ Repo documenting my Raspberry Pi server. Includes projects and configuration cod
 
 Named after my dog Gus.
 
-![Image of Gus](https://github.com/miotke/Gus/blob/main/gus_image.jpg)
+<p align="center">
+<img src="https://github.com/miotke/Gus/blob/main/gus_image.jpg" width="320" height="300">
+</p>
 
 ## Hardware
 

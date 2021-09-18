@@ -4,6 +4,8 @@ Repo documenting my Raspberry Pi server. Includes projects and configuration cod
 
 Named after my dog Gus.
 
+![Image of Gus](https://github.com/miotke/Gus/blob/main/gus_image.jpg)
+
 ## Hardware
 
 - Raspberry Pi 4 with 8GB of RAM

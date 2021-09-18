@@ -1,0 +1,14 @@
+version: '3'
+
+# Following documentation from https://www.home-assistant.io/installation/raspberrypi#install-home-assistant-container
+
+services:
+  home-assistant:
+    container_name: home-assistant
+    image: "ghcr.io/home-assistant/raspberrypi4-homeassistant:stable"
+    volumes:
+      - ./home_assistant/config
+      - /etc/localtime:/etc/localtime:ro
+    restart: unless-stopped
+    privilege: true
+    network_mode: host

@@ -10,5 +10,5 @@ services:
       - ./home_assistant/config
       - /etc/localtime:/etc/localtime:ro
     restart: unless-stopped
-    privilege: true
+    privileged: true
     network_mode: host

@@ -17,5 +17,6 @@ Named after my dog Gus.
 
 ## Software
 
+- [Rancher (k3s)](https://rancher.com)
 - [Pi-hole Docker](https://github.com/pi-hole/docker-pi-hole)
 - [Home Assistant](https://www.home-assistant.io)

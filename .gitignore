@@ -2,3 +2,6 @@
 
 # Pi-hole
 pi-hole/etc-*
+
+# Portainer
+portainer-data

@@ -4,4 +4,4 @@ A list of cron jobs. I'm sure there's a better way of handling this than just a 
 # Ensures the red and green LEDs are off.
 # Runs at 9 PM every night
 # This cron job runs in the root crontab.
-0 21 * * * sh /home/andrew/Developer/Gus/rpi_scripts/leds_off.sh
+0 21 * * * sh /home/$USER/Developer/Gus/rpi_scripts/leds_off.sh

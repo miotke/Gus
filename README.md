@@ -18,4 +18,11 @@ Named after my dog Gus.
 ## Software
 
 - [Pi-hole Docker](https://github.com/pi-hole/docker-pi-hole)
-- [Home Assistant](https://www.home-assistant.io)
+- [OctoPrint](https://octoprint.org)
+
+### OctoPrint
+
+Instructions for the OctoPrint configuration 
+
+- Python virtual environment, `octoprint`. Start the virtual environment by using `source octoprint/bin/activate`.
+- OctoPrint is installed to `./octoprint/bin/`
